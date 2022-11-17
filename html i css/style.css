@@ -1,0 +1,47 @@
+#k0{
+display: flex;
+flex-wrap: wrap;
+flex-direction:column;
+margin: 50px auto;
+height: 600px;
+border: 1px solid red;
+font-family: Arial;
+font-size: 100px;
+}
+#k1{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background: rgb(131, 58, 58);
+    width: 34%;
+    height: 34%;
+    order: 4;
+}
+#k2{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background: rgb(74, 54, 165);
+    width: 34%;
+    height: 33%;
+    order: 3;
+}
+#k3{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background: rgb(26, 141, 141);
+    width: 34%;
+    height: 33%;
+    order: 2;
+}
+#k4{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background: rgb(190, 135, 14);
+    width: 66%;
+    height: 100%;
+    order: 1;
+}
+
